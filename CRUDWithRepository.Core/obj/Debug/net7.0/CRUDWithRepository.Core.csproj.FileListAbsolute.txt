@@ -1,0 +1,12 @@
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\bin\Debug\net7.0\CRUDWithRepository.Core.deps.json
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\bin\Debug\net7.0\CRUDWithRepository.Core.dll
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\bin\Debug\net7.0\CRUDWithRepository.Core.pdb
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.csproj.AssemblyReference.cache
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.AssemblyInfoInputs.cache
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.AssemblyInfo.cs
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.csproj.CoreCompileInputs.cache
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.dll
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\obj\Debug\net7.0\refint\CRUDWithRepository.Core.dll
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.pdb
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.Core\obj\Debug\net7.0\ref\CRUDWithRepository.Core.dll

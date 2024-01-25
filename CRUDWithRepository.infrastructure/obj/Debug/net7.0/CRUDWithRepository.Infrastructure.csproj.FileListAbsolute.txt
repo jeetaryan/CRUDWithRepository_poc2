@@ -1,0 +1,15 @@
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\bin\Debug\net7.0\CRUDWithRepository.Infrastructure.deps.json
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\bin\Debug\net7.0\CRUDWithRepository.Infrastructure.dll
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\bin\Debug\net7.0\CRUDWithRepository.Infrastructure.pdb
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\bin\Debug\net7.0\CRUDWithRepository.Core.dll
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\bin\Debug\net7.0\CRUDWithRepository.Core.pdb
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.csproj.AssemblyReference.cache
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.AssemblyInfoInputs.cache
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.AssemblyInfo.cs
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.csproj.CopyComplete
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.dll
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\obj\Debug\net7.0\refint\CRUDWithRepository.Infrastructure.dll
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.pdb
+D:\Prasannajeet\DotNet\CRUDWithRepository\CRUDWithRepository.infrastructure\obj\Debug\net7.0\ref\CRUDWithRepository.Infrastructure.dll

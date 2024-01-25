@@ -1,0 +1,57 @@
+﻿@model CRUDWithRepository.Core.Product
+
+@{
+    ViewData["Title"] = Model != null && Model.Id == 0 ? "Create Product" : "Edit Product";
+}
+
+<h3>@ViewData["Title"]</h3>
+<div class="card">
+    <form method="Post" action="CreateOrEdit">
+
+        <div class="card-header">
+            <a class="btn btn-primary mb-1" asp-controller="Product" asp-action="Index">Product list</a>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-3" style="display:none;">
+                    <label asp-for="ProductName">Prodcut name:</label>
+                    <input type="text" class="form-control" asp-for="Id" />
+                </div>
+
+                <div class="col-md-3">
+                    <label asp-for="ProductName">Prodcut name:</label>
+                    <input type="text" class="form-control" asp-for="ProductName" placeholder="Enter product name..." />
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-3">
+                    <label asp-for="Price">Price:</label>
+                    <input type="number" class="form-control" asp-for="Price" placeholder="Enter price..." />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-3">
+                    <label asp-for="Qty">Quantity:</label>
+                    <input type="number" class="form-control" asp-for="Qty" placeholder="Enter qty..." />
+                    <span asp-validation-for="Qty" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            @if (Model != null && Model.Id == 0)
+            {
+                <button type="submit" class="btn btn-success float-end">Create</button>
+            }
+            else
+            {
+                <button type="submit" class="btn btn-success float-end">Update</button>
+
+            }
+        </div>
+    </form>
+</div>
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial.cshtml");
+    }
+}

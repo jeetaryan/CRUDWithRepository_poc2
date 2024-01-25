@@ -1,0 +1,46 @@
+﻿@model IEnumerable<CRUDWithRepository.Core.Product>
+
+@{
+    ViewData["Title"] = "Product list";
+}
+<h3>@ViewData["Title"]</h3>
+<a class="btn btn-primary mb-1" asp-controller="Product" asp-action="CreateOrEdit">Add product</a>
+<table class="table table-responsive table-bordered">
+    <thead>
+        <tr class="table-active">
+            <th> @Html.DisplayNameFor(model=>model.Id) </th>
+            <th> @Html.DisplayNameFor(model=>model.ProductName) </th>
+            <th> @Html.DisplayNameFor(model=>model.Price) </th>
+            <th> @Html.DisplayNameFor(model=>model.Qty) </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.ProductName</td>
+                    <td>@product.Price</td>
+                    <td>@product.Qty</td>
+                    <td class="text-center">
+                        <div class="btn-group">
+                            <a class="btn btn-success" asp-controller="Product" asp-action="CreateOrEdit" asp-route-id="@product.Id">Edit</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5">
+                    <div>No product available at this moment !</div>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
